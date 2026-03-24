@@ -104,7 +104,7 @@ JICR_Reports/
 ## 👨‍💻 Author
 
 **Akshay Kumar Sharma**
-B.Sc. Computer Science | IIT Patna
+BS Computer Science & Data Analytics | IIT Patna
 
 ---
 
